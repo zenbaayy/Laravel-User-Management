@@ -1,4 +1,15 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/16f2a896-46b0-45b6-940a-963ca0749e45" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/59d929f4-f213-405d-bea7-dabdf79ca400" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/e3bbc601-2741-446d-a55d-4feb4ea4097f" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/7cc6190f-c5a9-481f-9198-7cfcb45ef94e" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/9614796d-8153-441c-9dbd-0deec4f69932" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/cfaf69f9-c0c2-4a76-823b-ce7a04108053" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/5e6e77a9-bb3b-41b5-a3cd-f657bba2ed93" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/f3938daf-9601-4466-a65c-74ba3932a396" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/7f005b9d-c866-4f4f-8035-6fbb39abe9c7" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/16373c66-4d4b-4b68-bee1-7cb5e287bef5" />
+
+m<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -57,5 +68,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/16f2a896-46b0-45b6-940a-963ca0749e45" />
+
 
